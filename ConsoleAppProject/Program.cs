@@ -13,7 +13,7 @@ namespace ConsoleAppProject
     /// Derek Peacock 14/12/2020
     /// </summary>
     public static class Program
-    {
+    {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
         public static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
