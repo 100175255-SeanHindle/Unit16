@@ -8,7 +8,7 @@
  * @author 100175255
  */
 public class Calculator2 {
-    String name;
+     String name;
     
     public int add(int x, int y) {
         return x + y;

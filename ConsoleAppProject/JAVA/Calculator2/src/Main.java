@@ -7,16 +7,16 @@
  *
  * @author 100175255
  */
-public class mainClass {
+public class Main {
     public static void main(String[] args){
         Calculator2 c1 = new Calculator2();
         Calculator2 c2 = new Calculator2();
         
-        c1.name = "Awesomeness";
-        c2.name = "Bacon Egg & Cheese";
+        c1.name = "Addition";
+        c2.name = "Modulo";
         
-        System.out.println(c1.name + "calculated "+ c1.add(3, 4));
-        System.out.println(c2.name + "calculated "+ c2.modulus(29, 5));
+        System.out.println(c1.name + " calculated "+ c1.add(65, 86));
+        System.out.println(c2.name + " calculated "+ c2.modulus(67, 12));
         
     }
     
